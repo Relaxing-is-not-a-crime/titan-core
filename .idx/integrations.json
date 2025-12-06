@@ -1,0 +1,7 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://titan-core-lead.web.app"
+  },
+  "cloud_run_deploy": {},
+  "gemini_api": {}
+}
